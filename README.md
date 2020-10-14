@@ -1,5 +1,4 @@
 #This is the code for Todo app
-This is the code for Todo app
 
 # Install dependencies
 
